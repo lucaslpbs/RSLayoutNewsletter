@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+
+  background: #000 url("../img/BG.png") no-repeat right top fixed;
+}
+:root {
+  --color-white--: #fff;
+  --color-black--: #000;
+  --color-azulado--: #996DFF;
+  --color-lilas--: #C7AFFF;
+  --color-gray--: #202024;
+  --color-grayC--: #C4C4CC;
+}
